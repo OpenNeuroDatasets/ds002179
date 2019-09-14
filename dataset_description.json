@@ -17,5 +17,7 @@
         "Wald LL",
         "Fischl B",
         "van der Kouwe A"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002179.v1.0.0",
+    "License": "CC0"
 }
