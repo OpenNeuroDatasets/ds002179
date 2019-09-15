@@ -27,6 +27,8 @@
         "https://histopath.nmr.mgh.harvard.edu/images/?page=images&selectionType=collection&selectionId=22",
         "https://www.youtube.com/playlist?list=PLlL7CEMX5bxzl1TqkJRK3pMV4Ax6By4bN",
         "https://www.lead-dbs.org/",
-        "https://surfer.nmr.mgh.harvard.edu/fswiki"
+        "https://surfer.nmr.mgh.harvard.edu/fswiki",
+        "https://github.com/freesurfer/freesurfer",
+        "https://github.com/leaddbs/leaddbs"
     ]
 }
