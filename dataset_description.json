@@ -19,5 +19,6 @@
         "van der Kouwe A"
     ],
     "DatasetDOI": "10.18112/openneuro.ds002179.v1.0.0",
-    "License": "CC0"
+    "License": "CC0",
+    "HowToAcknowledge": "Edlow BL, Mareyam A, Horn A, et al. Data from: 7 Tesla MRI of the ex vivo human brain at 100 micron resolution. OpenNeuro https://openneuro.org/datasets/ds002179, doi:10.18112/openneuro.ds002179.v1.0.0 (2019).\n"
 }
