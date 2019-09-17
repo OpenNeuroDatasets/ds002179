@@ -1,0 +1,23 @@
+{
+    "Name": "7 Tesla MRI of the ex vivo human brain at 100 micron resolution",
+    "BIDSVersion": "1.2.1",
+    "Authors": [
+        "Edlow BL",
+        "Mareyam A",
+        "Horn A",
+        "Polimeni JR",
+        "Witzel T",
+        "Tisdall MD",
+        "Augustinack J",
+        "Stockmann JP",
+        "Diamond BR",
+        "Stevens A",
+        "Tirrell LS",
+        "Folkerth RD",
+        "Wald LL",
+        "Fischl B",
+        "van der Kouwe A"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002179.v1.0.0",
+    "License": "CC0"
+}
